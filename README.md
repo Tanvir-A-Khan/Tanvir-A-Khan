@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed Khan</h1>
 <h3 align="center">Competitve Programmer From Bangladesh. Learning</h3>
 
-![image](https://github.com/Tanvir-A-Khan/Tanvir-A-Khan/assets/66480107/709676f8-0dc9-43e4-86fc-9f2eb984fea9)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-a-khan&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-a-khan" /> </p>
 
