@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Fullstack - MERN**
 
-- 👨‍💻 All of my projects are available at [http://tanvir-a-khan.github.io/My-Portfolio/](http://tanvir-a-khan.github.io/My-Portfolio/)
+- 👨‍💻 See my portfolio at [http://tanvir-a-khan.github.io/My-Portfolio/](http://tanvir-a-khan.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Web3 & Blockchain, React, Node, Express**
 
